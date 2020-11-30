@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/VCC_Images">
+        <file>CONNECTION_INTERRUPTED_PNG.png</file>
+        <file>Pitch_Circle.png</file>
+        <file>Roll_Circle.png</file>
+        <file>SIGNAL_LOST_PNG.png</file>
+        <file>VULCAN_IMAGE_PNG.png</file>
+        <file>VULCAN_LOGO_PNG.png</file>
+    </qresource>
+</RCC>
