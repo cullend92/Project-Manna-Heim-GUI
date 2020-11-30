@@ -1,5 +1,6 @@
 # Project-Manna-Heim-GUI
-Project Manna-Heim's goal is to design and construct a remotely operated rover with a deployable debris shelter
+Project Manna-Heim is the senior design project untaken by Team Vulcan at Embry-Riddle Aeronautical Universtity, Prescott campus during the Spring 2019 - Fall 2019 semesters.
+Project Manna-Heim's goal is to design and construct a remotely operated rover with a deployable debris shelter.
 This repository holds the code for the user interface subsystem used to operate the rover.
 The interface is written in C++ with the Qt API.
 
