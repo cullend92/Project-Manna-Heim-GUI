@@ -58,11 +58,13 @@ bool CommunicationsModule::findStartTag(MannaheimDataType &type, int &index, con
     if (data.contains(pitchTag)) {
         type = PITCH;
         index = data.indexOf(pitchTag) + pitchTag.size();
+        return true;
     }
 
     if (data.contains(rollTag)) {
         type = ROLL;
         index = data.indexOf(rollTag) + pitchTag.size();
+        return true;
     }
 
     return false;
